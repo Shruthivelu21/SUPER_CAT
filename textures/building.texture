@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "building",
+  "identifier": "texture:208160-f77f178f-7e0d-4c59-bf62-2b06088d0150",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "d470c0b0663cd2106eedd040b18a2029",
+  "assetLocator": "building.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:209072-f77f178f-7e0d-4c59-bf62-2b06088d0150",
+    "textureExportConfig:209192-f77f178f-7e0d-4c59-bf62-2b06088d0150",
+    "textureExportConfig:209316-f77f178f-7e0d-4c59-bf62-2b06088d0150"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 900,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 300,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "d470c0b0663cd2106eedd040b18a2029",
+      "colorCount": 109761,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 11.739774261511675,
+      "pixelsHigh": 900,
+      "pixelsWide": 300
+    }
+  ]
+}
